@@ -1,0 +1,15 @@
+.centerDiv {
+  text-align: center;
+}
+
+h1 {
+  color: green;
+}
+
+.blueBackground {
+  background-color: blue;
+}
+
+#greyBackground {
+    background-color: grey;
+}
